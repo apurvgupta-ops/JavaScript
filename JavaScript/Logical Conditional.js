@@ -7,9 +7,9 @@ var cardInfo = true;
 //   console.log("You are logged in");
 //   if (emailVarified) {
 //     console.log("email varified done");
-//   }
-//   if (cardInfo) {
-//     console.log("you can purchase now");
+//     if (cardInfo) {
+//       console.log("you can purchase now");
+//     }
 //   }
 // }
 
