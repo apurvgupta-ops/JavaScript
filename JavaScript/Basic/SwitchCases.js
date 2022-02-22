@@ -23,3 +23,9 @@ switch (user) {
     console.log("trial user");
     break;
 }
+
+var app = "2";
+// console.log("2" + app);
+
+// var a = Math.round(app);
+// console.log(a);
