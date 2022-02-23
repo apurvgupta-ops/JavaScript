@@ -13,5 +13,9 @@ const number = [2, 3, 4, 5, 6, 7, 8, 9];
 // const result = number.fill("A", 2, 6);
 // console.log(result);
 
-const result2 = number.filter((num) => num > 5);
-console.log(result2);
+// const result2 = number.filter((num) => num > 5);
+// console.log(result2);
+
+// console.log(number.slice(1, 5));
+number.splice(1, 3, "a", "b");
+console.log(number);
