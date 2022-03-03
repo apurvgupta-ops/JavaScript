@@ -2,7 +2,6 @@
 // function hello() {
 //   console.log("hello world");
 // }
-
 // hello()
 
 //Self executing anonymouse function
