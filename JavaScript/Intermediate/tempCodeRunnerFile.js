@@ -1,4 +1,2 @@
-hile (i < states.length) {
-//   console.log(states[i]);
-//   i++;
-// }
+mber.fill("A", 2, 6);
+console.log(result);
