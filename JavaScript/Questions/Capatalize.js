@@ -11,7 +11,8 @@
 
 //Capatilize
 const Cap = (name) => {
-    return name.charAt(0).toUpperCase() + name.slice(1)
-}
-const res = Cap("appiygjjjihvbu")
-console.log(res)
+  //   console.log(name.slice(1));
+  return name.charAt(0).toUpperCase() + name.slice(1);
+};
+const res = Cap("appiygjjjihvbu");
+console.log(res);
